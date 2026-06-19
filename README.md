@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Anuritha 👋
 
-<!--
-**Anuritha-chittedi/Anuritha-chittedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer with 3.7+ years of experience building secure, scalable, and user-friendly mobile applications using Kotlin and modern Android technologies.
 
-Here are some ideas to get you started:
+📍 Berlin, Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* Kotlin
+* Jetpack Compose
+* MVVM
+* Coroutines & Flow
+* Firebase
+* OAuth 2.0 & PKCE
+* Bluetooth Classic & BLE
+* REST APIs
+* AppAuth
+* Git
+
+## 💼 Professional Experience
+
+I have contributed to authentication and mobile security solutions involving:
+
+* TOTP-based authentication
+* Push notifications with Firebase
+* Number challenge authentication
+* PKCE flows using AppAuth
+* Bluetooth communication between Android and Windows devices
+
+## 🏗️ Interests
+
+* Mobile Architecture
+* Clean Architecture
+* Bluetooth & BLE Solutions
+* Authentication and Security
+* System Design
+
+## 🌱 Currently Learning
+
+* Hilt
+* Advanced Jetpack Compose
+* System Design
+
+## 📫 Connect with Me
+
+* LinkedIn: [www.linkedin.com/in/anuritha-chittedi1](http://www.linkedin.com/in/anuritha-chittedi1)
+* Email: [anurithachittedi@gmail.com](mailto:anurithachittedi@gmail.com)
